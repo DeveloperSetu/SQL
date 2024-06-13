@@ -1,4 +1,22 @@
 # SQL
+# DROP DATABASE Statement
+  DROP DATABASE database_Name;
+# DROP Table Statement
+  DROP TABLE Table_Name;
+  
+
+
+
+
+
+
+
+
+
+
+
+
+#SQL QUERY
 DATABASE-SQL (DDL,DML)
 --===================================DDL==============================---(CREATE,DROP,AITER)
 
