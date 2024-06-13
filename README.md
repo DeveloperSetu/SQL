@@ -4,10 +4,11 @@
 # DROP Table Statement
   DROP TABLE Table_Name;
   
+#Rename Database name statement
+ALTER DATABASE ExName MODIFY NAME= new-database
 
-
-
-
+# RENAME Table name statement
+ALTER TABLE table_name RENAME TO new_table_name; 
 
 
 
