@@ -1,14 +1,15 @@
 # SQL
 # DROP DATABASE Statement
   DROP DATABASE database_Name;
+# Rename Database name statement
+  ALTER DATABASE ExName MODIFY NAME= new-database
+
 # DROP Table Statement
   DROP TABLE Table_Name;
-  
-#Rename Database name statement
-ALTER DATABASE ExName MODIFY NAME= new-database
-
+# Table Create statement
+   CREATE TABLE table_name
 # RENAME Table name statement
-ALTER TABLE table_name RENAME TO new_table_name; 
+  ALTER TABLE table_name RENAME TO new_table_name; 
 
 
 
